@@ -1,0 +1,45 @@
+body {
+    background: #fff;
+    width: 0;
+    padding: 0;
+    
+}
+
+.content {
+    padding: 60px;
+    margin: 70px;
+    width: 70%;
+    min-height: 50vh;
+    color: rgb(179, 40, 63);
+    font-weight: 300;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#content  {
+    color: blueviolet;
+    padding-top: 40px;
+
+}
+
+.iloveme {
+    display: block;
+    color: black;
+    text-align: justify;
+    margin-right: auto;
+}
+
+#iloveme {
+    color: gray;
+    text-transform: uppercase;
+}
+
+.hate {
+    color: blue;
+}
+
+#hate {
+    align-items: center;
+    text-decoration: double;
+}
